@@ -1,0 +1,172 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-1 .u-custom-html-1 {
+  margin-bottom: 60px;
+} @media print{.form-section{display:inline!important}.form-pagebreak{display:none!important}.form-section-closed{height:auto!important}.page-section{position:initial!important}}
+form-label-left{
+        width:150px;
+    }
+    form-line{
+        padding-top:12px;
+        padding-bottom:12px;
+    }
+    form-label-right{
+        width:150px;
+    }
+    body, html{
+        margin:0;
+        padding:0;
+        background:rgba(255, 255, 255, 0);
+    }
+    form-all{
+        margin:0px auto;
+        padding-top:0px;
+        width:454px;
+        color:rgb(19, 19, 19) !important;
+        font-family:'Rambla';
+        font-size:16px;
+    }
+    form-radio-item label, .form-checkbox-item label, .form-grading-label, form-header{
+        color: rgb(19, 19, 19);
+    }
+    /* Injected CSS Code */
+/*PREFERENCES STYLE*/
+    form-all {
+      font-family: Rambla, sans-serif;
+    }
+    form-all .qq-upload-button,
+    form-all .form-submit-button,
+    form-all .form-submit-reset,
+    form-all .form-submit-print {
+      font-family: Rambla, sans-serif;
+    }
+    form-all .form-pagebreak-back-container,
+    form-all .form-pagebreak-next-container {
+      font-family: Rambla, sans-serif;
+    }
+    form-header-group {
+      font-family: Rambla, sans-serif;
+    }
+    form-label {
+      font-family: Rambla, sans-serif;
+    }
+  
+    form-label.form-label-auto {
+      
+    display: block;
+    float: none;
+    text-align: left;
+    width: 100%;
+  
+    }
+  
+    form-line {
+      margin-top: 12px;
+      margin-bottom: 12px;
+    }
+  
+    form-all {
+      max-width: 454px;
+      width: 100%;
+    }
+  
+    form-label.form-label-left,
+    form-label.form-label-right,
+    form-label.form-label-left.form-label-auto,
+    form-label.form-label-right.form-label-auto {
+      width: 150px;
+    }
+  
+    form-all {
+      font-size: 16px
+    }
+    form-all .qq-upload-button,
+    form-all .qq-upload-button,
+    form-all .form-submit-button,
+    form-all .form-submit-reset,
+    form-all .form-submit-print {
+      font-size: 16px
+    }
+    form-all .form-pagebreak-back-container,
+    form-all .form-pagebreak-next-container {
+      font-size: 16px
+    }
+  
+    supernova .form-all, .form-all {
+      background-color: rgba(255, 255, 255, 0);
+    }
+  
+    form-all {
+      color: rgb(19, 19, 19);
+    }
+    form-header-group .form-header {
+      color: rgb(19, 19, 19);
+    }
+    form-header-group .form-subHeader {
+      color: rgb(19, 19, 19);
+    }
+    form-label-top,
+    form-label-left,
+    form-label-right,
+    form-html,
+    form-checkbox-item label,
+    form-radio-item label {
+      color: rgb(19, 19, 19);
+    }
+    form-sub-label {
+      color: 1a1a1a;
+    }
+  
+    supernova {
+      background-color: white;
+    }
+    supernova body {
+      background: transparent;
+    }
+  
+    form-textbox,
+    form-textarea,
+    form-dropdown,
+    form-radio-other-input,
+    form-checkbox-other-input,
+    form-captcha input,
+    form-spinner input {
+      background-color: rgba(255, 255, 255, 0);
+      padding: 10px;
+    }
+  
+    form-all {
+      position: relative;
+    }
+    form-all:before {
+      content: "";
+      background-image: url("img/logoboş.png");
+      display: inline-block;
+      height: 140px;
+      position: absolute;
+      background-size: 356px 140px;
+      background-repeat: no-repeat;
+      width: 100%;
+    }
+    form-all {
+      margin-top: 150px !important;
+    }
+    form-all:before {
+      top: -150px;
+      background-position: top center;
+    }
+           
+  ie-8 .form-all:before { display: none; }
+  ie-8 {
+    margin-top: auto;
+    margin-top: initial;
+  }
+  marjver{
+      margin-left: -27%;
+    }
+  a{ position: relative; -webkit-transform: scale(1); -ms-transform: scale(1); -moz-transform: scale(1); transition: all .3s ease-in; -moz-transition: all .3s ease-in; -webkit-transition: all .3s ease-in; -ms-transition: all .3s ease-in; } 
+    a:hover{ z-index:2; -webkit-transform: scale(1.1); -ms-transform: scale(1.1); -moz-transform: scale(1.1); transform: scale(1.1); }
+  /*PREFERENCES STYLE*//*__INSPECT_SEPERATOR__*/
+    /* Injected CSS Code */ 
